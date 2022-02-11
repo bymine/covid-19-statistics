@@ -1,6 +1,12 @@
 # covid19_statistic_app
 
-A new Flutter project.
+공공 데이터 포털의 api를 이용한 
+코로나 감염현황 통계 앱
+
+
+
+## 디자인
+https://www.figma.com/file/aL7ZUoNvqvBkhADroGkXfR/covid--19-%ED%86%B5%EA%B3%84%EC%95%B1?node-id=0%3A1
 
 ## Getting Started
 
