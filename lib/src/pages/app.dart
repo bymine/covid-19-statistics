@@ -1,3 +1,4 @@
+import 'package:covid19_statistic_app/src/components/custom_drawer.dart';
 import 'package:covid19_statistic_app/src/controllers/app_controller.dart';
 import 'package:covid19_statistic_app/src/pages/city/city.dart';
 import 'package:covid19_statistic_app/src/pages/total/total.dart';
@@ -10,24 +11,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        drawer: Drawer(
-          child: ListView(
-            children: [
-              ListTile(
-                onTap: () {
-                  AppController.to.changeIndex(0);
-                },
-                title: const Text("코로나 발생 현황"),
-              ),
-              ListTile(
-                onTap: () {
-                  AppController.to.changeIndex(1);
-                },
-                title: const Text("시·도별 발생 현황"),
-              ),
-            ],
-          ),
-        ),
+        drawer: const CustomDrawer(),
         body: Obx(() {
           switch (AppController.to.currentIndex.value) {
             case 0:

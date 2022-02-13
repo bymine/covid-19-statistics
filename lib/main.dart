@@ -32,6 +32,8 @@ class InitBindings extends Bindings {
   @override
   void dependencies() {
     Get.put(AppController());
+    Get.put(Covid19Repository());
+
     Get.put(TotalController());
     Get.put(CityController());
   }
