@@ -2,6 +2,7 @@ import 'package:covid19_statistic_app/src/controllers/app_controller.dart';
 import 'package:covid19_statistic_app/src/controllers/city_controller.dart';
 import 'package:covid19_statistic_app/src/controllers/total_controller.dart';
 import 'package:covid19_statistic_app/src/pages/app.dart';
+import 'package:covid19_statistic_app/src/repository/covid_repository.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
@@ -33,7 +34,6 @@ class InitBindings extends Bindings {
   void dependencies() {
     Get.put(AppController());
     Get.put(Covid19Repository());
-
     Get.put(TotalController());
     Get.put(CityController());
   }
