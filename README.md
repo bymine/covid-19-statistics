@@ -7,5 +7,5 @@
 - 원하는 날짜의 시도별 발생 현황을 호가일 할 수 있다.
 
 ## 화면
-<img width="500%" src="https://user-images.githubusercontent.com/71866185/161898514-a45d5c77-7d8c-4566-b080-18781641e031.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/71866185/161898514-a45d5c77-7d8c-4566-b080-18781641e031.png"/>
 
