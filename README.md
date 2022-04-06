@@ -7,11 +7,6 @@
 - 원하는 날짜의 시도별 발생 현황을 호가일 할 수 있다.
 
 ## 화면
-
-#### 홈 화면
-<img width="50%" src="https://user-images.githubusercontent.com/71866185/153742308-a08b95fc-fcdc-4727-9935-5013c1c7f1b5.png"/>
-
-#### 시·도별 화면
-<img width="50%" src="https://user-images.githubusercontent.com/71866185/153742322-bc8a1a4f-c769-4ace-ac09-38e0e9a0a6d6.png"/>
-
+<img width="30%" src="https://user-images.githubusercontent.com/71866185/153742308-a08b95fc-fcdc-4727-9935-5013c1c7f1b5.png"/>
+<img width="30%" src="https://user-images.githubusercontent.com/71866185/153742322-bc8a1a4f-c769-4ace-ac09-38e0e9a0a6d6.png"/>
 
