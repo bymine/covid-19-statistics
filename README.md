@@ -1,8 +1,10 @@
-# covid19_statistic_app
+# 코로나 통계 앱
+> 공공 데이터 포털의 api를 이용한 코로나 감염현황 통계 앱
 
-공공 데이터 포털의 api를 이용한 
-코로나 감염현황 통계 앱
+## 주요 기능 
 
+- 원하는 날짜의 코로나 발생 현황을 확인 할 수 있고 7일간의 추이가 그래프로 표시된다.
+- 원하는 날짜의 시도별 발생 현황을 호가일 할 수 있다.
 
 ## 화면
 
@@ -13,18 +15,3 @@
 <img width="50%" src="https://user-images.githubusercontent.com/71866185/153742322-bc8a1a4f-c769-4ace-ac09-38e0e9a0a6d6.png"/>
 
 
-## 디자인
-https://www.figma.com/file/aL7ZUoNvqvBkhADroGkXfR/covid--19-%ED%86%B5%EA%B3%84%EC%95%B1?node-id=0%3A1
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
